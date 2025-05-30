@@ -60,7 +60,7 @@ brew install python-tk
 
 ## 🙋‍♂️ About Me
 
-Hi, I'm [Ulash Yshyk](https://www.linkedin.com/in/ulashyshyk/), a Computer Programming & Analysis student at Seneca Polytechnic. I love building full-stack and interactive projects in web and Python, and I’m currently seeking a **Fall 2025 Co-op** opportunity!
+Hi, I'm [Ulash Yshyk](https://www.linkedin.com/in/ulashyshyk/), a Computer Programming & Analysis student at Seneca Polytechnic. I built this project to improve my Python skills!
 
 ---
 
